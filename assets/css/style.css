@@ -293,6 +293,10 @@ body {
 }
 
 @media screen and (min-width: 1440px) {
+    .mapa {
+    height: 100%;
+    }
+
     .cartao--destaque {
         margin-bottom: 0;
     }
